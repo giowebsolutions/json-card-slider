@@ -23,7 +23,6 @@ function increaseCounter(){
   } else{
     counter = 0
   }
-  console.log(counter, maxCards)
 }
 
 function decreaseCounter(){
@@ -32,7 +31,6 @@ function decreaseCounter(){
   } else{
     counter = maxCards
   }
-  console.log(counter,maxCards)
 }
 
 function requestJSON(){
