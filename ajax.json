@@ -1,0 +1,39 @@
+[
+  {
+    "id" : 1,
+    "img" : "https://via.placeholder.com/400x300",
+    "name" : "Martins",
+    "position" : "Director",
+    "mobile" : "0480508070",
+    "phone" : "5050478006",
+    "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, aperiam. Alias iusto id suscipit architecto, illum cum laboriosam temporibus excepturi hic atque possimus. Aliquid praesentium esse quae ad. Consequatur tenetur quas quidem sed animi dolore atque error dolorem eius beatae!"
+  },
+  {
+    "id" : 2,
+    "img" : "https://via.placeholder.com/400x300",
+    "name" : "John Doe",
+    "position" : "Sales",
+    "mobile" : "0480508070",
+    "phone" : "5050478006",
+    "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, aperiam. Alias iusto id suscipit architecto, illum cum laboriosam temporibus excepturi hic atque possimus. Aliquid praesentium esse quae ad. Consequatur tenetur quas quidem sed animi dolore atque error dolorem eius beatae!"
+  },
+  {
+    "id" : 3,
+    "img" : "https://via.placeholder.com/400x300",
+    "name" : "Jane Doe",
+    "position" : "Marketing",
+    "mobile" : "0480508070",
+    "phone" : "5050478006",
+    "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, aperiam. Alias iusto id suscipit architecto, illum cum laboriosam temporibus excepturi hic atque possimus. Aliquid praesentium esse quae ad. Consequatur tenetur quas quidem sed animi dolore atque error dolorem eius beatae!"
+  },
+  {
+    "id" : 4,
+    "img" : "https://via.placeholder.com/400x300",
+    "name" : "June Doe",
+    "position" : "IT",
+    "mobile" : "0480508070",
+    "phone" : "5050478006",
+    "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, aperiam. Alias iusto id suscipit architecto, illum cum laboriosam temporibus excepturi hic atque possimus. Aliquid praesentium esse quae ad. Consequatur tenetur quas quidem sed animi dolore atque error dolorem eius beatae!"
+  }
+
+]
